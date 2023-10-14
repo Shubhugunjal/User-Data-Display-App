@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: white;
+}
+.card {
+  width: 100%;
+  height: 8rem;
+  border-width: 1;
+  border-radius: 10;
+  background-color: #daf2ed;
+}
